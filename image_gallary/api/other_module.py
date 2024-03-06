@@ -1,2 +1,2 @@
 def fn_from_model():
-    return __name__ 
+    return __name__

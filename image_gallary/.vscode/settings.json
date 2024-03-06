@@ -4,9 +4,15 @@
         "javascriptreact",
         "typescript",
         "typescriptreact",
-        "html",
+        "html"
     ],
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
+    "[python]":{
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "editor.rulers": [120],
 }
+    
